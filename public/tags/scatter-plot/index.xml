@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scatter Plot on Roxanne DSIntro Blog</title>
+    <link>/tags/scatter-plot/</link>
+    <description>Recent content in Scatter Plot on Roxanne DSIntro Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/scatter-plot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Scatter Plots</title>
+      <link>/post/scatter-plots/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/scatter-plots/</guid>
+      <description>library(ggplot2)## Warning: package &amp;#39;ggplot2&amp;#39; was built under R version 3.4.1Let’s generate some random points:
+x&amp;lt;-rnorm(100,5,2)y&amp;lt;-rnorm(100,2*x+1,2)x## [1] 5.9024449 5.5403090 5.7130287 7.8912185 4.9958364 4.7941463## [7] 3.8041118 5.2313404 2.7821018 4.5082925 6.0022651 2.8299441## [13] 5.2353100 5.0878323 4.3420898 6.1259645 4.7903501 6.7056996## [19] 5.1982624 4.5859638 5.7766308 3.6444700 6.0160607 -1.4494272## [25] 7.9641819 5.1919178 4.7656222 6.3293614 6.2891385 3.4897410## [31] 3.5330438 7.1850280 3.1261391 4.5704250 4.5285328 4.3094435## [37] 9.5915628 7.</description>
+    </item>
+    
+  </channel>
+</rss>
